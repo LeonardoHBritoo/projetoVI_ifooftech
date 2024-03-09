@@ -1,0 +1,6 @@
+Calcular para as variáveis numéricas: 
+
+    Medidas de tendência central: Moda (Mo), Mediana (Mn), Média (Md)
+    Medidas de dispersão: AMPLITUDE TOTAL: max - min, INTERVALO INTERQUARTÍLICO: IQ = Q3-Q1, DESVIO MÉDIO, VARIÂNCIA e o DESVIO-PADRÃO
+
+Regressão linear:
